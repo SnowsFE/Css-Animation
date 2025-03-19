@@ -29,7 +29,7 @@ const PageTitleUpdater = () => {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Css-Animation">
       <PageTitleUpdater />
       <Routes>
         <Route path="/" element={<Main />} />
