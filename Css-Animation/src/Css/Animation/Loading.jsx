@@ -19,7 +19,7 @@ const Loading = () => {
             right: 10px;
             width: 20px;
             height: 20px;
-          background-image: url("/Css-Animation/images/copyOk.svg");
+          background-image: url("/by-Snoer/images/copyOk.svg");
             animation: fade-out 2s forwards;
           }
           
@@ -67,7 +67,7 @@ const Loading = () => {
   return (
     <Container>
       <Header>
-        <BackLink to="/css-animations">
+        <BackLink to="/animations">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
@@ -672,7 +672,7 @@ const CodeBlock = styled.pre`
     right: 10px;
     width: 20px;
     height: 20px;
-    background-image: url("/Css-Animation/images/copyCode.svg");
+    background-image: url("/by-Snoer/images/copyCode.svg");
     background-size: contain;
     background-repeat: no-repeat;
     cursor: pointer;

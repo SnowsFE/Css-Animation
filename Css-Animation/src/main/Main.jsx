@@ -26,7 +26,7 @@ const Main = () => {
           <FeatureSection $isLoaded={isLoaded}>
             <FeatureCard
               as={Link}
-              to="/css-animations"
+              to="/animations"
               // whileHover prop 제거
             >
               <CardContent>

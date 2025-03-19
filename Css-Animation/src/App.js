@@ -15,9 +15,9 @@ const PageTitleUpdater = () => {
 
   useEffect(() => {
     const pageTitles = {
-      "/css-animations/trans-effect": "Snoer | 트랜지션 & 트랜스폼",
-      "/css-animations/keyframes": "Snoer | 키프레임",
-      "/css-animations/loading": "Snoer | 로딩 애니메이션",
+      "/animations/trans-effect": "Snoer | 트랜지션 & 트랜스폼",
+      "/animations/keyframes": "Snoer | 키프레임",
+      "/animations/loading": "Snoer | 로딩 애니메이션",
     };
 
     let title = pageTitles[location.pathname] || "Snoer Animation";
@@ -29,12 +29,12 @@ const PageTitleUpdater = () => {
 
 function App() {
   return (
-    <Router basename="/Css-Animation">
+    <Router basename="/by-Snoer">
       <PageTitleUpdater />
       <Routes>
         <Route path="/" element={<Main />} />
-        <Route path="/css-animations" element={<Animations />} />
-        <Route path="/css-animations/*" element={<Css />} />
+        <Route path="/animations" element={<Animations />} />
+        <Route path="/animations/*" element={<Css />} />
       </Routes>
     </Router>
   );

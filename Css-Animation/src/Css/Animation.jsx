@@ -24,7 +24,7 @@ const Animations = () => {
           </Header>
 
           <CategorySection $isLoaded={isLoaded}>
-            <CategoryCard to="/css-animations/trans-effect">
+            <CategoryCard to="/animations/trans-effect">
               <CardContent>
                 <IconWrapper>
                   <CategoryIcon>
@@ -46,7 +46,7 @@ const Animations = () => {
               <CardGlow />
             </CategoryCard>
 
-            <CategoryCard to="/css-animations/keyframes">
+            <CategoryCard to="/animations/keyframes">
               <CardContent>
                 <IconWrapper>
                   <CategoryIcon>
@@ -68,7 +68,7 @@ const Animations = () => {
               <CardGlow />
             </CategoryCard>
 
-            <CategoryCard to="/css-animations/loading">
+            <CategoryCard to="/animations/loading">
               <CardContent>
                 <IconWrapper>
                   <CategoryIcon>
