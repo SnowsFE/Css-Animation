@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Css-Animation/static/css/main.1769825a.css",
-    "main.js": "/Css-Animation/static/js/main.c6b52a26.js",
-    "static/js/453.4373ff9e.chunk.js": "/Css-Animation/static/js/453.4373ff9e.chunk.js",
-    "index.html": "/Css-Animation/index.html",
-    "main.1769825a.css.map": "/Css-Animation/static/css/main.1769825a.css.map",
-    "main.c6b52a26.js.map": "/Css-Animation/static/js/main.c6b52a26.js.map",
-    "453.4373ff9e.chunk.js.map": "/Css-Animation/static/js/453.4373ff9e.chunk.js.map"
+    "main.css": "/by-Snoer/static/css/main.1769825a.css",
+    "main.js": "/by-Snoer/static/js/main.60aba8e1.js",
+    "static/js/453.4373ff9e.chunk.js": "/by-Snoer/static/js/453.4373ff9e.chunk.js",
+    "index.html": "/by-Snoer/index.html",
+    "main.1769825a.css.map": "/by-Snoer/static/css/main.1769825a.css.map",
+    "main.60aba8e1.js.map": "/by-Snoer/static/js/main.60aba8e1.js.map",
+    "453.4373ff9e.chunk.js.map": "/by-Snoer/static/js/453.4373ff9e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1769825a.css",
-    "static/js/main.c6b52a26.js"
+    "static/js/main.60aba8e1.js"
   ]
 }
