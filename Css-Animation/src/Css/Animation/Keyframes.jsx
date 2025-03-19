@@ -19,7 +19,7 @@ const Keyframes = () => {
           right: 10px;
           width: 20px;
           height: 20px;
-          background-image: url("/images/copyOk.svg");
+          background-image: url("/Css-Animation/images/copyOk.svg");
           animation: fade-out 2s forwards;
         }
         
@@ -653,7 +653,7 @@ const CodeBlock = styled.pre`
     right: 10px;
     width: 20px;
     height: 20px;
-    background-image: url("/images/copyCode.svg");
+    background-image: url("/Css-Animation/images/copyCode.svg");
     background-size: contain;
     background-repeat: no-repeat;
     cursor: pointer;
